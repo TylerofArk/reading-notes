@@ -1,11 +1,10 @@
 # My Reading Notes
 
-
+ 
 ## Reading Assignments for Code Fellows 102D40.
 
-
-
-
+ 
+  
 ## About Me:
 
 ![210425-Profile-Small](https://user-images.githubusercontent.com/108289379/176016664-fdb84cd6-09cd-48e1-ab85-8b9d92a1b373.jpg)
