@@ -1,2 +1,3 @@
-# reading-notes
-Reading notes for 102D40
+My Reading Notes
+
+This is where I'm going to put my reading assignments.
