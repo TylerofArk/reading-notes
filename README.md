@@ -1,6 +1,10 @@
 # My Reading Notes
 
+
 ## Reading Assignments for Code Fellows 102D40.
+
+
+
 
 ## About Me:
 
