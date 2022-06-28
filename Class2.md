@@ -38,7 +38,8 @@ But, the command prompt is more than just a navigation shortcut. It allows you t
 
 ## Basic Navigation
 
-Basic navigation in the command prompt is done through a set of, you guessed it, commands. Each of these commands can be run with an option or an argument to vary the function of the command. These commands, options and arguments work together to tell you where you are in your computer. Location in the command prompt can be determined by which user, drive, director, folder and files you are in. Each of these also has it's own data that can be summoned through the command prompt. This data may be how many folders are in a directory or the names of files in a folder. Paths are commands that, rather than give you information about where you're at, move you from one place to another.
+Basic navigation in the command prompt is done through a set of, you guessed it, commands. Each of these commands can be run with an option or an argument to vary the function of the command. These commands, options and arguments work together to tell you where you are in your computer. Location in the command prompt can be determined by which user, drive, director, folder and files you are in. Each of these also has it's own data that can be summoned through the command prompt. This data may be how many folders are in a directory or the names of files in a folder. Paths are commands that, rather than give you information about where you're at, navigate you to a specific file or directory. A relative path is file or directory location relative to where we currently are in the file system. An absolute path
+is a file or directory location in relation to the root of the file system.
 
 Here are a few common navigational commands: pwd - Print Working Directory - ie. Where are we currently.
 ls - List the contents of a directory.
@@ -47,3 +48,16 @@ cd - Change Directories - ie. move to another directory.
 You can use an option by placing "-l" in front of the command and an argument by placing "/etc". You can also perform an option and an argument on the same command.
 
 ## About Files
+
+*A few tips and rules to consider when dealing with files in command prompt.*
+
+In linux, everything from text to your monitor is considered a file. 
+
+Linux does not use file extensions to determine what type of file it is. Linux looks at the contents of the file to make that determination.
+
+Linux is case sensitive. Meaning file1 and File1 are two completely different files. 
+
+You can use spaces in file names, but you need to know the rules. Ex: Wrong - Holiday Photos Right - 'Holiday Photos' Right - Holiday\ Photos
+In the first example linux uses only the first word, therefor would not be able to find the actual file were looking for. In the second example we use single quotes to tell linux that these two words are to be searched together. In the last example we use a backslash to tell the linux to ignore the special meaning of the space after it, allowing linux to read the text correctly and not just search for holiday alone. 
+
+Use a . in front of the file name to hide it and use ls -a to show hidden files. 
