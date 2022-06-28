@@ -32,6 +32,18 @@ Ultimately, the text editor you choose will come down to personal preference whi
 
 ## The Command Line
 
+The command line lets you speak directly to the computer in an input / output method. Rather than navigate throught your desktop with a mouse, the entire computer is also accessible to you through the command prompt.
+
+But, the command prompt is more than just a navigation shortcut. It allows you to many functions that aren't available through other means on the desktop. You can have multiple command prompts open to show pages, data and work behind the scenes on a task all at the same time.
+
 ## Basic Navigation
+
+Basic navigation in the command prompt is done through a set of, you guessed it, commands. Each of these commands can be run with an option or an argument to vary the function of the command. These commands, options and arguments work together to tell you where you are in your computer. Location in the command prompt can be determined by which user, drive, director, folder and files you are in. Each of these also has it's own data that can be summoned through the command prompt. This data may be how many folders are in a directory or the names of files in a folder. Paths are commands that, rather than give you information about where you're at, move you from one place to another.
+
+Here are a few common navigational commands: pwd - Print Working Directory - ie. Where are we currently.
+ls - List the contents of a directory.
+cd - Change Directories - ie. move to another directory.
+
+You can use an option by placing "-l" in front of the command and an argument by placing "/etc". You can also perform an option and an argument on the same command.
 
 ## About Files
