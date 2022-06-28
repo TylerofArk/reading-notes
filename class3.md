@@ -6,16 +6,15 @@
 
 #### Version Control
 
-
-
 Local
 
 Centralized
 
 Distributed
 
-
 #### Git
 
-A version control system. 
+A version control system.
 Lets Multiple Developers work on the same code.
+
+Test line to snapshot back to Github
