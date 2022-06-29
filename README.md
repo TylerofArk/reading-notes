@@ -14,7 +14,7 @@ My name is Tyler Main and I live in Fayetteville, Arkansas. I spent 8 years in t
 
 [The Coder's Computer](https://tylerofark.github.io/reading-notes/class2)
 
-[Revisions, the cloud and Git](https://tylerofark.github.io/reading-notes/class3)
+[Revisions, the Cloud and Git](https://tylerofark.github.io/reading-notes/class3)
 
 [Structure Web Pages with HTML](https://tylerofark.github.io/reading-notes/class4)
 
