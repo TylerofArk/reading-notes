@@ -4,14 +4,14 @@ Markdown is a lightweight markup language created by John Gruber in 2004 and is 
 
 ## Basic Markdown text styling cheat sheet
 
-Style Syntax
-Bold **Example**
-Italic *Example*
-Strikethrough ~~Example~~
-All bold and italic ***Example***
+> Style Syntax
+> Bold **Example**
+> Italic *Example*
+> Strikethrough ~~Example~~
+> All bold and italic ***Example***
 
-Unordered list - or *
-Ordered list 1.
+> Unordered list - or *
+> Ordered list 1.
 
 ## Markdown Resources
 
