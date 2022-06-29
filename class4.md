@@ -47,6 +47,6 @@ Resources:
 
 [Wireframing](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/)
 
-[Basics](<https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics>
+[Basics](<https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics>)
 
 [Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
