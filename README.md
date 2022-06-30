@@ -18,4 +18,8 @@ My name is Tyler Main and I live in Fayetteville, Arkansas. I spent 8 years in t
 
 [Structure Web Pages with HTML](https://tylerofark.github.io/reading-notes/class4)
 
+[What is CSS?](https://tylerofark.github.io/reading-notes/class5)
+
+[Intro to JavaScript](https://tylerofark.github.io/reading-notes/class6)
+
 [My github portfolio](https://github.com/TylerofArk)
