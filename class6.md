@@ -4,7 +4,7 @@ JavaScript (JS) is a lightweight programming language that enables you to create
 
 Javascript is used in web pages, web apps and products.
 
-## Values and ariables
+## Values and Variables
 
 A value is a piece of data and the most fundamental unit of information in programming.
 
