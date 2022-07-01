@@ -40,14 +40,18 @@ This helps with keeping code DRY also.
 
 Operator | Description
 
-+          Addition
+'+'          Addition
 
--          Subtraction
+'-'          Subtraction
 
-*          Multiplication
+'*'          Multiplication
+
 **         Exponentiation (ES2016)
+
 /          Division
+
 %          Modulus (Division Remainder)
+
 ++         Increment
 
 ## Assignment Operators
@@ -55,9 +59,15 @@ Operator | Description
 Operator  Example  Same as
 
 =         x = y     x = y
+
 +=        x += y    x = x + y
+
 -=        x -= y    x = x - y
-*=        x *= y    x = x * y
+
+'*='        x*= y    x = x * y
+
 /=        x /= y    x = x / y
+
 %=        x %= y    x = x % y
-**=       x **= y   x = x ** y
+
+'**='       x**= y   x = x ** y
