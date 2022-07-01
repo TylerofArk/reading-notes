@@ -22,4 +22,8 @@ My name is Tyler Main and I live in Fayetteville, Arkansas. I spent 8 years in t
 
 [Intro to JavaScript](https://tylerofark.github.io/reading-notes/class6)
 
+[Intro to JavaScript](https://tylerofark.github.io/reading-notes/class7)
+
+[Intro to JavaScript](https://tylerofark.github.io/reading-notes/class8)
+
 [My github portfolio](https://github.com/TylerofArk)
