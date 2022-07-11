@@ -133,3 +133,7 @@ Inline is generally discouraged as it pollutes your HTML and makes it harder to 
 External JS is added to html via a script tag that references a .js file in the directory as your index.html.
 
 Internal JS is added to html via adding JS code directly inbetween a script tag.
+
+## Things I want to know more about
+
+Pretty much everything at this point!
