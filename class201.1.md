@@ -1,5 +1,7 @@
 # Getting Started
 
+This reading assignment reviews some fundamentals of HTMLS, CSS and JavaScript and dives deeper into some of the important features and nuances of each of the languages and website building.
+
 ## How HTTP works
 
 The client requests data from a server aka page, site, or app.
@@ -62,6 +64,8 @@ This tag contains independent content that doesn’t require any other context. 
 
 This tag is used to split a page into sections like Introduction, Contact Information, Details, etc and each of these sections can be in a different section tag. The section tag is introduced to wrap-up the things in a particular section. The section tag divides the content into sections and subsections. The section tag is used when requirements of two headers or footers or any other section of documents needed. Section tag grouped the generic block of related content.
 
+Source: <https://www.geeksforgeeks.org/difference-between-article-tag-and-section-tag/>
+
 ## Typical HTML Elements
 
 head
@@ -90,6 +94,8 @@ Meta refresh redirect
 Meta charset
 Meta viewport
 
+Source: <https://ahrefs.com/blog/seo-meta-tags/>
+
 ## What is the first step to designing a website?
 
 Wireframing
@@ -99,6 +105,8 @@ Wireframing
 1. What exactly do I want to accomplish?
 2. How will a website help me reach my goals?
 3. What needs to be done, and in what order, to reach my goals?
+
+Source: <https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Thinking_before_coding>
 
 ## h1 vs span for top level heading
 
@@ -114,7 +122,7 @@ Generally, if there is an application for using symantic elements in your code y
 
 ## Two things that require JS in the browser?
 
-timely content updates, interactive maps, animated 2d/3d graphics, scrolling video jukeboxes
+Timely content updates, interactive maps, animated 2d/3d graphics, scrolling video jukeboxes. Basically anything on the page that doesn't just sit there and anything on the page that the user can interact with.
 
 ## How to add JS to an HTML document?
 
