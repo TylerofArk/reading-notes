@@ -6,7 +6,7 @@
 
 #### To create a basic link, we wrap text or other content inside what element?
 
-<a href="URL">description of link</a>
+A tags with an href to the URL and a description of the link
 
 #### The href attribute contains what information?
 
