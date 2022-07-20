@@ -37,10 +37,14 @@ A constructor is just a function called using the new keyword. When you call a c
 
 ### How does the term this differ when used in an object literal versus when used in a constructor?
 
-this doesn't have to have a value in a constructor because the constructor is going to assign it a name based on the input where as in an object this refers to a predetermined name.
+This refers to a specific data point in an object where as this refers to the data point of all of the objects in the constructor.
 
 ## Object Prototypes Using A Constructor
 
 ### Explain prototypes and inheritance via an analogy from your previous work experience
+
+In JavaScript, an object can inherit properties of another object. The object from where the properties are inherited is called the prototype. In short, objects can inherit properties from other objects — the prototypes.
+
+When I was building a sales calculator for a cookie company I coded all of my store locations and their properties into a constructor. From then on, I was able to put all of my methods into prototypes and call them to complete the work I needed on each object in the constructor at once.
 
 * NOTE: This is a very common front end developer interview question
